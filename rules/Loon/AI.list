@@ -23,6 +23,7 @@ DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
 # > Meta AI
 DOMAIN-SUFFIX,meta.ai
 # > Perplexity AI
